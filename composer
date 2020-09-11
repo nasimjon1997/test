@@ -1,0 +1,6 @@
+
+In excel.php line 182:
+                                          
+  Class 'PHPExcel_Shared_Font' not found  
+                                          
+
